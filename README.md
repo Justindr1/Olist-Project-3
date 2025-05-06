@@ -1,5 +1,5 @@
 # Olist-Project-3
-[Portfolio](https://justindrivera.carrd.co) project utilizing the Olist dataset from Kaggle
+[Portfolio](https://justindrivera.carrd.co) project utilizing the Olist dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 Olist E-Commerce Performance Dashboard
 ## Overview
